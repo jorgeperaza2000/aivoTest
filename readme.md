@@ -2,7 +2,7 @@
 
 ## Instalar el proyecto
 
-Clone el proyecto.
+Clonar el proyecto.
 
     git clone https://github.com/jorgeperaza2000/aivoTest.git [my-app-name]
 
