@@ -17,7 +17,7 @@ Renombrar el archivo .env.example a .env y generar el APP_KEY del proyecto con l
 	cd /path/to/project/[my-app-name]
 	php artisan key:generate
 
-Agregar las constantes de Facebook en .env
+Agregar las constantes de Facebook en el archivo .env
 
 	FB_API_ID="ACA EL API_ID DE FACEBOOK"
 	FB_APP_SECRET="ACA EL APP_SECRET DE FACEBOOK"
